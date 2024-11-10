@@ -2,8 +2,8 @@ package Controller;
 
 
 
-import com.example.library.entity.Book;
-import com.example.library.service.BookService;
+import com.example.SringAssignment.
+import com.example.SringAssignment.Services.BookService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
